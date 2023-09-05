@@ -56,8 +56,8 @@ app.get('/3', (req, res) => {
   res.render('template2', {
     title: 'Joke',
     message: 'Day 4!',
-    content: 'The most underated Rapper in the pizza game',
-    url: ''
+    content: 'The old man',
+    url: 'https://hips.hearstapps.com/hmg-prod/images/jokes-for-kids-14-1631055180.png?crop=1.00xw:0.446xh;0,0.295xh&resize=980:*'
   });
 });
 
@@ -67,8 +67,8 @@ app.get('/4', (req, res) => {
   res.render('template2', {
     title: 'Joke',
     message: 'Day 5!',
-    content: 'The most underated Rapper in the pizza game',
-    url: ''
+    content: 'Birthday ',
+    url: 'https://bestdadjokes.com/wp-content/uploads/2023/03/Why-are-birthdays-good-for-your-health.png'
   });
 });
 
@@ -78,8 +78,8 @@ app.get('/5', (req, res) => {
   res.render('template2', {
     title: 'Joke',
     message: 'Day 6!',
-    content: 'The most underated Rapper in the pizza game',
-    url: ''
+    content: 'My Dog',
+    url: 'https://i1.wp.com/www.skiptomylou.org/wp-content/uploads/2022/05/i-have-a-few-jokes-about-unemployed-dogs-but-none-of-them-work.jpg'
   });
 });
 
@@ -89,8 +89,8 @@ app.get('/6', (req, res) => {
   res.render('template2', {
     title: 'Joke',
     message: 'Day 7!',
-    content: 'The most underated Rapper in the pizza game',
-    url: ''
+    content: 'Back fire!',
+    url: 'https://miro.medium.com/v2/resize:fit:1400/1*9edgsm2B2q5s21SnYB2QUQ.png'
   });
 });
 
@@ -100,8 +100,8 @@ app.get('/7', (req, res) => {
   res.render('template2', {
     title: 'Joke',
     message: 'Day 8!',
-    content: 'The most underated Rapper in the pizza game',
-    url: ''
+    content: 'Project time!',
+    url: 'https://www.databasestar.com/wp-content/uploads/2015/11/project-cartoon-lg.jpg'
   });
 });
 
@@ -111,8 +111,8 @@ app.get('/8', (req, res) => {
   res.render('template2', {
     title: 'Joke',
     message: 'Day 9!',
-    content: 'The most underated Rapper in the pizza game',
-    url: ''
+    content: 'The cute Parrot!',
+    url: 'https://pun.me/jokes/funny-dad-jokes/funny-dad-joke.jpg'
   });
 });
 
